@@ -2,10 +2,12 @@
 //
 
 #include "stdafx.h"
-
+#include <iostream>
 
 int main()
 {
+	int nameMusic;
+	std::cout << "ok" << std::endl;
     return 0;
 }
 
